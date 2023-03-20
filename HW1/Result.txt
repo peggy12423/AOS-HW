@@ -1,0 +1,45 @@
+--------------------FIFO Random--------------------
+
+[Frame size]= 10 [Page fault]= 1768 [Interrupt]= 1781 [Disk write]= 1781
+[Frame size]= 20 [Page fault]= 1733 [Interrupt]= 1765 [Disk write]= 1765
+[Frame size]= 30 [Page fault]= 1709 [Interrupt]= 1750 [Disk write]= 1750
+[Frame size]= 40 [Page fault]= 1688 [Interrupt]= 1738 [Disk write]= 1738
+[Frame size]= 50 [Page fault]= 1653 [Interrupt]= 1717 [Disk write]= 1717
+[Frame size]= 60 [Page fault]= 1624 [Interrupt]= 1702 [Disk write]= 1702
+[Frame size]= 70 [Page fault]= 1589 [Interrupt]= 1684 [Disk write]= 1684
+[Frame size]= 80 [Page fault]= 1564 [Interrupt]= 1670 [Disk write]= 1670
+[Frame size]= 90 [Page fault]= 1534 [Interrupt]= 1655 [Disk write]= 1655
+[Frame size]= 100 [Page fault]= 1514 [Interrupt]= 1647 [Disk write]= 1647
+
+--------------------FIFO Locality--------------------
+
+[Frame size]= 10 [Page fault]= 94573 [Interrupt]= 138370 [Disk write]= 138370
+[Frame size]= 20 [Page fault]= 53530 [Interrupt]= 118274 [Disk write]= 118274
+[Frame size]= 30 [Page fault]= 52424 [Interrupt]= 117745 [Disk write]= 117745
+[Frame size]= 40 [Page fault]= 51368 [Interrupt]= 117223 [Disk write]= 117223
+[Frame size]= 50 [Page fault]= 50565 [Interrupt]= 116830 [Disk write]= 116830
+[Frame size]= 60 [Page fault]= 49631 [Interrupt]= 116375 [Disk write]= 116375
+[Frame size]= 70 [Page fault]= 48760 [Interrupt]= 115923 [Disk write]= 115923
+[Frame size]= 80 [Page fault]= 47913 [Interrupt]= 115520 [Disk write]= 115520
+[Frame size]= 90 [Page fault]= 47093 [Interrupt]= 115112 [Disk write]= 115112
+[Frame size]= 100 [Page fault]= 46193 [Interrupt]= 114696 [Disk write]= 114696
+
+--------------------FIFO MyString--------------------
+
+[Frame size]= 10 [Page fault]= 162004 [Interrupt]= 170912 [Disk write]= 170912
+[Frame size]= 20 [Page fault]= 143977 [Interrupt]= 161922 [Disk write]= 161922
+[Frame size]= 30 [Page fault]= 125971 [Interrupt]= 152918 [Disk write]= 152918
+[Frame size]= 40 [Page fault]= 107958 [Interrupt]= 143916 [Disk write]= 143916
+[Frame size]= 50 [Page fault]= 89961 [Interrupt]= 134932 [Disk write]= 134932
+[Frame size]= 60 [Page fault]= 72039 [Interrupt]= 125961 [Disk write]= 125961
+[Frame size]= 70 [Page fault]= 53975 [Interrupt]= 116970 [Disk write]= 116970
+[Frame size]= 80 [Page fault]= 36124 [Interrupt]= 108033 [Disk write]= 108033
+[Frame size]= 90 [Page fault]= 18314 [Interrupt]= 99149 [Disk write]= 99149
+[Frame size]= 100 [Page fault]= 600 [Interrupt]= 90292 [Disk write]= 90292
+--------------------Optimal Random--------------------
+
+[Frame size]= 10 [Page fault]= 1545 [Interrupt]= 1670 [Disk write]= 1670
+[Frame size]= 20 [Page fault]= 1415 [Interrupt]= 1606 [Disk write]= 1606
+[Frame size]= 30 [Page fault]= 1333 [Interrupt]= 1560 [Disk write]= 1560
+[Frame size]= 40 [Page fault]= 1259 [Interrupt]= 1526 [Disk write]= 1526
+[Frame size]= 50 [Page fault]= 1198 [Interrupt]= 1493 [Disk write]= 1493
